@@ -1,16 +1,15 @@
 # gaith_kouzali_cyber
 
-A new Flutter project.
+Simple authentication Ui :
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_20231119_141545](https://github.com/Gaith-Kozali/auth_task/assets/142360873/0e80a4e2-71a5-4478-9405-b18cee12606f)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_20231119_141614](https://github.com/Gaith-Kozali/auth_task/assets/142360873/cb6e99ef-83a4-438f-9948-b73719b7c7c4)
+
+
+![Screenshot_20231119_141555](https://github.com/Gaith-Kozali/auth_task/assets/142360873/c7092a15-549c-4c0a-b16e-0060d274d5a8)
+
